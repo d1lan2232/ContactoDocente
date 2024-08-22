@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sonet",
+    "precio": 22.990,
+    "categoria": "Suv",
+    "descripcion": "Mejor economía de combustible y cadena de distribución, potenciada por la última tecnología para brindarte una experiencia de manejo increíble.",
+    "imagen": "image/sonet.webp"
+  },
+  {
+    "id": 2,
+    "nombre": "G01",
+    "precio": 19.990,
+    "categoria": "Suv",
+    "descripcion": "El SUV SWM fue diseñado en Milan, Italia con el objetivo de brindar al consumidor un diseño cautivador, una experiencia de lujo y un vehículo inteligente con entretenimiento a bordo.",
+    "imagen": "image/car2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Soluto",
+    "precio": 16.000,
+    "categoria": "automovil",
+    "descripcion": "Subcompacto de gama baja que nace en China para satisfacer la demanda de sedanes accesibles en Latinoamérica —además de su mercado de origen.",
+    "imagen": "image/car7.jfif"
+  }
+]
